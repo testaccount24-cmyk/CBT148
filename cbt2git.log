@@ -1,0 +1,10 @@
+2025-04-04 05:07:02.746485 - Received CBT.V508.FILE148.PDS from FILE148.XMI 
+2025-04-04 05:07:02.747236 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:07:02.747394 - Found $$DOC.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/$$DOC
+2025-04-04 05:07:02.747530 - Found @FILE148.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/@FILE148
+2025-04-04 05:07:02.747710 - Found FILE001.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE001
+2025-04-04 05:07:02.747877 - Found FILE002.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE002
+2025-04-04 05:07:02.747995 - Found FILE003.bin (application/octet-stream) in CBT.V508.FILE148.PDS, moved to PDS/FILE003
+2025-04-04 05:07:02.748114 - Found FILE004.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE004
+2025-04-04 05:07:02.748244 - Found FILE005.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE005
+2025-04-04 05:07:02.748383 - Found FILE006.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE006
